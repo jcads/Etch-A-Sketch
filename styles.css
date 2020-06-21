@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    line-height: 0;
+    background-color: whitesmoke;
+}
+
+.btn {
+    margin: 2rem auto;
+    display: block;
+}
+
+.btn:hover  {
+    background-color: seashell;
+    color: black;
+}
+
+.container {
+    width: 45vw;
+    height: 45vw;
+    text-align: left;
+    padding: 0;
+    outline: .25rem solid;
+    background-color: white;
+    margin-top: 2rem;
+}
+
+.inner {
+    display: inline-block;
+    /* background-color: black; */
+}
+
+.hovered {
+    background-color: black;
+}
+
